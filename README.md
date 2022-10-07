@@ -1,2 +1,2 @@
 # sample-repo
-Git練習用（かめ　れおん　Udemy講座）
+Git練習用（かめれおん　Udemy講座）
